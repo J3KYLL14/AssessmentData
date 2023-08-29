@@ -1,0 +1,42 @@
+﻿PokéDex Number,Name,Type,Move Type,Moves
+1,Bulbasaur,Grass / Poison,Normal,Tackle
+1,Bulbasaur,Grass / Poison,Grass,Leech Seed
+1,Bulbasaur,Grass / Poison,Grass,Vine Whip
+1,Bulbasaur,Grass / Poison,Grass,Razor Leaf
+4,Charmander,Fire,Normal,Scratch
+4,Charmander,Fire,Fire,Ember
+4,Charmander,Fire,Fire,Flamethrower
+4,Charmander,Fire,Fire,Fire Spin
+7,Squirtle,Water,Normal,Tackle
+7,Squirtle,Water,Water,Bubble
+7,Squirtle,Water,Water,Water Gun
+7,Squirtle,Water,Water,Hydro Pump
+16,Pidgey,Flying,Normal,Scratch
+16,Pidgey,Flying,Normal,Sand Attack
+16,Pidgey,Flying,Normal,Quick Attack
+16,Pidgey,Flying,Flying,Wing Attack
+19,Rattata,Normal,Normal,Scratch
+19,Rattata,Normal,Normal,Quick Attack
+19,Rattata,Normal,Normal,Hyper Fang
+19,Rattata,Normal,Normal,Bite
+25,Pikachu,Electric,Normal,Scratch
+25,Pikachu,Electric,Electric,Thunder Wave
+25,Pikachu,Electric,Electric,Thunder Shock
+25,Pikachu,Electric,Electric,Thunder Bolt
+63,Abra,Psychic,Psychic,Teleport
+63,Abra,Psychic,Psychic,Confusion
+63,Abra,Psychic,Psychic,Psybeam
+63,Abra,Psychic,Psychic,Psychic
+66,Machop,Fighting,Fighting,Headbutt
+66,Machop,Fighting,Fighting,Low Kick
+66,Machop,Fighting,Fighting,Take Down
+66,Machop,Fighting,Normal,Body Slam
+74,Geodude,Rock/Ground,Normal,Tackle
+74,Geodude,Rock/Ground,Normal,Take Down
+74,Geodude,Rock/Ground,Fighting,Seismic Toss
+74,Geodude,Rock/Ground,Ground,Earthquake
+92,Gastly,Ghost,Poison,Curse
+92,Gastly,Ghost,Psychic,Hypnosis
+92,Gastly,Ghost,Ghost,Nightmare
+92,Gastly,Ghost,Ghost,Dream Eater
+162,Magikarp,Water,Water,Splash
