@@ -1,0 +1,16 @@
+student_id,student_name,student_email,student_phone,guest_name,guest_email,rsvp_status,arrival_slot,dietary_needs,accessibility_requirements,notes,submitted_at
+121409,Ella Chen,ella.chen@students.gshs.qld.edu.au,0485532132,Oliver Fox,oliver.fox@example.com,Pending,18:45,Gluten-Free,No,Parent requesting early slot,2025-07-05 07:57:00
+121434,Oliver White,oliver.white@students.gshs.qld.edu.au,0430814532,Ella King,ella.king@example.com,Confirmed,18:30,None,No,,2025-07-01 16:05:00
+126514,Ava Brown,ava.brown@students.gshs.qld.edu.au,0478227487,Dylan Miller,dylan.miller@example.com,Pending,17:30,Dairy-Free,No,Allergy details confirmed with catering,2025-07-22 06:48:00
+126925,Archie Walker,archie.walker@students.gshs.qld.edu.au,0422489384,Sarah Patel,sarah.patel@example.com,Cancelled,18:30,Vegan,No,,2025-07-11 23:16:00
+123664,Archie Miller,archie.miller@students.gshs.qld.edu.au,0431646846,James Jones,james.jones@example.com,Confirmed,18:00,Vegan,No,,2025-07-30 06:33:00
+125422,Lucas Wilson,lucas.wilson@students.gshs.qld.edu.au,0450510374,Oliver Young,oliver.young@example.com,Confirmed,18:45,None,No,Requests photo area access on arrival,2025-07-02 20:03:00
+126155,Chloe King,chloe.king@students.gshs.qld.edu.au,0481651369,Mia Mitchell,mia.mitchell@example.com,Confirmed,17:45,Halal,No,,2025-07-12 14:22:00
+127543,Jack Mitchell,jack.mitchell@students.gshs.qld.edu.au,0490263911,Ava White,ava.white@example.com,Pending,18:00,None,No,,2025-07-08 07:56:00
+127304,Henry Harris,henry.harris@students.gshs.qld.edu.au,0497649868,Lucas White,lucas.white@example.com,Pending,18:15,None,No,,2025-07-06 14:07:00
+122827,Ella Davis,ella.davis@students.gshs.qld.edu.au,0432619208,Lucas Matthews,lucas.matthews@example.com,Confirmed,18:00,Halal,Wheelchair access,,2025-07-24 03:46:00
+129317,Charlotte Baker,charlotte.baker@students.gshs.qld.edu.au,0486431600,Ethan Scott,ethan.scott@example.com,Pending,18:30,None,Vision support,Allergy details confirmed with catering,2025-07-01 09:37:00
+126038,Chloe Baker,chloe.baker@students.gshs.qld.edu.au,0478884228,Chloe Thompson,chloe.thompson@example.com,Confirmed,17:45,Halal,No,,2025-07-04 12:35:00
+123705,Zoe Martin,zoe.martin@students.gshs.qld.edu.au,0449508787,Henry Moore,henry.moore@example.com,Pending,18:00,Halal,Wheelchair access,,2025-07-10 12:42:00
+129479,Lucas Mitchell,lucas.mitchell@students.gshs.qld.edu.au,0410172824,Oliver Harris,oliver.harris@example.com,Confirmed,18:15,None,No,,2025-07-11 09:32:00
+121514,Oliver Harris,oliver.harris@students.gshs.qld.edu.au,0483584348,Oliver Jones,oliver.jones@example.com,Confirmed,18:00,Vegan,No,,2025-07-27 08:43:00
